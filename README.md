@@ -14,6 +14,7 @@ Welcome to my corner of the digital universe, where the code is cleaner than my 
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ## 📊 My GitHub Stats
