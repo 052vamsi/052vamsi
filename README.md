@@ -8,7 +8,7 @@ Welcome to my corner of the digital universe
 
 
 - 🌱 I’m currently learning: **AI&ML**. 
-- 📫 How to reach me: [052.vamsi@gmail.com].
+- 📫 How to reach me: 052.vamsi@gmail.com.
 
 
 ## 🛠️ Languages and Tools
