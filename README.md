@@ -21,15 +21,11 @@ Welcome to my corner of the digital universe, where the code is cleaner than my 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=052vamsi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=052vamsi&layout=compact&theme=radical)
 
-## 📈 Fun with Graphs
 
-Because who doesn't love a good graph?
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=052vamsi&theme=radical)
 
 ## 🧩 My Latest Projects
 
-- **[Project Name 1](https://github.com/052vamsi/ScrapIt)** - It's a waste segregation project using image classification to help identify and sort different types of waste.
+- **[ScrapIt](https://github.com/052vamsi/ScrapIt)** - It's a waste segregation project using image classification to help identify and sort different types of waste.
 
 ## 👨‍💻 Some Code I'm Proud Of
 
