@@ -2,7 +2,7 @@
 
 
 
-Welcome to my corner of the digital universe, where the code is cleaner than my room and the bugs are friendlier than my neighbors!
+Welcome to my corner of the digital universe
 
 ## 🚀 About Me
 
